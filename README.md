@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @coder-subhajit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-coder-subhajit/coder-subhajit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m Subhajit
+- DSA in JAVA
+- Language: C / Java / Python
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js / Java
+- Database: MySQL
+- Tools: Git, VS Code
