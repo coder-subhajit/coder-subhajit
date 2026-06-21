@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student |<br> DSA & problem-solving | <br> Learning by building and experimenting with code.
+
 
 
 ## 🌐 Socials:
