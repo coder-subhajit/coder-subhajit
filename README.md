@@ -58,10 +58,11 @@
 ### 🔥 Top Contributed Repo
 <div align="center">
   <a href="https://github.com/coder-subhajit/Leetcode-Solutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-subhajit&repo=Leetcode-Solutions&theme=radical" alt="Top Repo" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/coder-subhajit/Leetcode-Solutions&label=Leetcode-Solutions&query=$.stargazers_count&suffix=%20⭐&color=blueviolet&style=for-the-badge&logo=github" alt="Top Repo" />
   </a>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=100&section=footer" />
+
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=coder-subhajit&color=FF6EC7&style=flat-square)](https://visitcount.itsvg.in)
