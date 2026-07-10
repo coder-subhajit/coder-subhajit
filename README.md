@@ -44,10 +44,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=coder-subhajit&theme=dark&hide_border=true&count_private=false" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=coder-subhajit&theme=dark&hide_border=true&count_private=false&layout=compact" />
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=coder-subhajit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=58A6FF&text_color=C9D1D9&count_private=false&disable_animations=false" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=coder-subhajit&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=C9D1D9&count_private=false&layout=compact" />
 
-<img src="https://streak-stats.demolab.com/?user=coder-subhajit&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=coder-subhajit&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=58A6FF&currStreakLabel=FF6EC7" />
 
 </div>
 
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=coder-subhajit&theme=darkhub&no-frame=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=coder-subhajit&theme=radical&no-frame=true&margin-w=8&row=1" />
 
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=coder-subhajit&color=58A6FF&style=flat-square)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=coder-subhajit&color=FF6EC7&style=flat-square)](https://visitcount.itsvg.in)
 
 </div>
 
