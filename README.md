@@ -56,11 +56,12 @@
 </div>
 
 ### 🔥 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=coder-subhajit&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
+<div align="center">
+  <a href="https://github.com/coder-subhajit/Leetcode-Solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-subhajit&repo=Leetcode-Solutions&theme=radical" alt="Top Repo" />
+  </a>
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=100&section=footer" />
-
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=coder-subhajit&color=FF6EC7&style=flat-square)](https://visitcount.itsvg.in)
