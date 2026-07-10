@@ -52,7 +52,7 @@
 </div>
 ### 🏆 Trophies
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=coder-subhajit&theme=radical&no-frame=true&margin-w=15" alt="trophy" />
+  <img src="https://github-trophies.vercel.app/?username=coder-subhajit" alt="trophy" />
 </div>
 
 ### 🔥 Top Contributed Repo
