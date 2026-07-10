@@ -55,8 +55,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=coder-subhajit&theme=radical&no-frame=true&margin-w=8&row=1" />
-
+![trophy](https://github-profile-trophy.vercel.app/?username=coder-subhajit)
 </div>
 
 ### 🔥 Top Contributed Repo
