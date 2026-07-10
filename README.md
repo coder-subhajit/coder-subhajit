@@ -50,10 +50,9 @@
 <img src="https://streak-stats.demolab.com/?user=coder-subhajit&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=58A6FF&currStreakLabel=FF6EC7" />
 
 </div>
-
 ### 🏆 Trophies
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=coder-subhajit&theme=onedark" alt="trophy"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=coder-subhajit&theme=radical&no-frame=true&margin-w=15" alt="trophy" />
 </div>
 
 ### 🔥 Top Contributed Repo
