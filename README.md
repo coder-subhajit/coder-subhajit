@@ -40,14 +40,17 @@
 
 </div>
 
-### 📊 GitHub Stats
+
+
+
+
+# 📊 GitHub Stats:
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=coder-subhajit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=58A6FF&text_color=C9D1D9&count_private=false&disable_animations=false" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=coder-subhajit&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=C9D1D9&count_private=false&layout=compact" />
-
-<img src="https://streak-stats.demolab.com/?user=coder-subhajit&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=58A6FF&currStreakLabel=FF6EC7" />
+  
+![](https://github-readme-stats.shion.dev/api?username=coder-subhajit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=coder-subhajit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=coder-subhajit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 ### 🏆 Trophies
