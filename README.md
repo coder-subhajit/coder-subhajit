@@ -1,4 +1,4 @@
-
+<div align="center">
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=SUBHAJIT%20BARIK&fontSize=50&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=B.TECH%20CSE%20%7C%20DSA%20%7C%20Full-Stack%20%7C%20AI%2FML&descAlignY=55&descSize=18" />
 </div>
