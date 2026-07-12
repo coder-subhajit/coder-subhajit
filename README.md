@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=SUBHAJIT%20BARIK&fontSize=50&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=B.TECH%20CSE%20%7C%20DSA%20%7C%20Full-Stack%20%7C%20AI%2FML&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=SUBHAJIT%20BARIK&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=B.TECH%20CSE%20%7C%20DSA%20%7C%20Full-Stack%20%7C%20AI%2FML&descAlignY=55&descSize=18" />
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=B24BF3&center=true&vCenter=true&width=600&lines=Learning+by+building%2C+one+bug+at+a+time.;Currently+shipping+FreshRoots+%F0%9F%9A%80;Targeting+top-tier+SWE+roles+by+2028" />
