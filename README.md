@@ -4,6 +4,7 @@
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=600&lines=LEARNING+BY+BUILDING%2C+ONE+BUG+AT+A+TIME.;CSE+STUDENT+AT+SISTER+NIVEDITA+UNIVERSITY+(TECHNO+INDIA+GROUP)" />
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://xubha.netlify.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/CODER__SUBHA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajit-barik-24549531a)
