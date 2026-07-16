@@ -3,7 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=SUBHAJIT%20BARIK&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=B.TECH%20CSE%20%7C%20DSA%20%7C%20Full-Stack%20%7C%20AI%2FML&descAlignY=55&descSize=18" />
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=600&lines=LEARNING+BY+BUILDING%2C+ONE+BUG+AT+A+TIME.;CSE+%7C+DSA+%7C+WEB+DEVELOPMENT;SISTER+NIVEDITA+UNIVERSITY" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=600&lines=LEARNING+BY+BUILDING%2C+ONE+BUG+AT+A+TIME." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=CSE+%7C+DSA+%7C+WEB+DEVELOPMENT" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=SISTER+NIVEDITA+UNIVERSITY" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://xubha.netlify.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/CODER__SUBHA)
