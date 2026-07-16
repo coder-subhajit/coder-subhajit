@@ -10,6 +10,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajit-barik-24549531a)
 
 </div>
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=coder-subhajit&color=FF6EC7&style=flat-square)](https://visitcount.itsvg.in)
+
+</div>
 
 <img src="https://raw.githubusercontent.com/coder-subhajit/coder-subhajit/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -67,10 +72,6 @@
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=100&section=footer" />
 
-<div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=coder-subhajit&color=FF6EC7&style=flat-square)](https://visitcount.itsvg.in)
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
