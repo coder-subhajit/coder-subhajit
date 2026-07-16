@@ -59,10 +59,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=coder-subhajit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-### 🏆 Trophies
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=coder-subhajit" alt="trophy" />
-</div>
+
 
 ### 🔥 Top Contributed Repo
 <div align="center">
