@@ -67,8 +67,7 @@
     <img src="https://opengraph.githubassets.com/1/coder-subhajit/Leetcode-Solutions" alt="Leetcode-Solutions repo preview" width="600" />
   </a>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=100&section=footer" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=100&section=footer" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
