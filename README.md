@@ -60,13 +60,8 @@
 
 </div>
 
-### 🔥 Top Contributed Repo
 <div align="center">
-  <a href="https://github.com/coder-subhajit/Leetcode-Solutions">
-    <img src="https://socialify.git.ci/coder-subhajit/Leetcode-Solutions/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Leetcode-Solutions repo preview" width="600" />
-  </a>
-</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=100&section=footer" />
-
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
