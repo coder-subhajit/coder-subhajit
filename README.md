@@ -24,7 +24,7 @@
 - 🎓 CSE undergraduate, currently in Semester V
 - 🎯 Focused on cracking top-tier tech placements by 2028
 - 🧠 Splitting deep focus across **DSA (Java)**, **Full-Stack Development**, and **AI/ML**
-- 🌱 Currently building **FreshRoots**, a React Native app
+- 🌱 Currently building depth in **DSA Pattern**
 - 📫 Reach me on LinkedIn — link above
 
 ### 🛠️ Tech Stack
