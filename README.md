@@ -40,6 +40,7 @@
 ![Hibernate](https://img.shields.io/badge/-Hibernate%2FJPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security%20%2B%20JWT-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -49,6 +50,7 @@
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/-Vector%20Databases-4B0082?style=flat-square&logo=pinecone&logoColor=white)
 ![LLM APIs](https://img.shields.io/badge/-LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
+
 </div>
 
 
