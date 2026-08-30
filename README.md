@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=SUBHAJIT%20BARIK&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=B.TECH%20CSE%20%7C%20DSA%20%7C%20BACKEND%20DEVELOPER%20%7C%20AI%2FML&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=SUBHAJIT%20BARIK&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=B.TECH%20CSE%20%7C%20DSA%20%7C%20AI%20BACKEND%20DEVELOPER%20%7C%20AI%2FML&descAlignY=55&descSize=18" />
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=LEARNING+BY+BUILDING%2C+ONE+BUG+AT+A+TIME.;SISTER+NIVEDITA+UNIVERSITY" />
