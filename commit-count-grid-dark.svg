@@ -1,0 +1,823 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="798" height="128" viewBox="0 0 798 128">
+<rect width="100%" height="100%" fill="#0d1117" rx="6"/>
+<text x="3" y="12" font-family="Segoe UI, sans-serif" font-size="10" fill="#c9d1d9">Daily commits — count-up reveal</text>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:9.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.00s" dur="0.4s" fill="freeze" additive="replace"/><rect x="3" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2025-09-28: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:9.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.00s" dur="0.4s" fill="freeze" additive="replace"/><rect x="3" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2025-09-29: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:9.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.00s" dur="0.4s" fill="freeze" additive="replace"/><rect x="3" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2025-09-30: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:9.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.00s" dur="0.4s" fill="freeze" additive="replace"/><rect x="3" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-01: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:9.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.00s" dur="0.4s" fill="freeze" additive="replace"/><rect x="3" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-02: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:9.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.00s" dur="0.4s" fill="freeze" additive="replace"/><rect x="3" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-03: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:9.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.00s" dur="0.4s" fill="freeze" additive="replace"/><rect x="3" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-04: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:24.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="0.13s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.13s" dur="0.4s" fill="freeze" additive="replace"/><rect x="18" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-05: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:24.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="0.13s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.13s" dur="0.4s" fill="freeze" additive="replace"/><rect x="18" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-06: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:24.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="0.13s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.13s" dur="0.4s" fill="freeze" additive="replace"/><rect x="18" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-07: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:24.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="0.13s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.13s" dur="0.4s" fill="freeze" additive="replace"/><rect x="18" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-08: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:24.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="0.13s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.13s" dur="0.4s" fill="freeze" additive="replace"/><rect x="18" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-09: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:24.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="0.13s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.13s" dur="0.4s" fill="freeze" additive="replace"/><rect x="18" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-10: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:24.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="0.13s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.13s" dur="0.4s" fill="freeze" additive="replace"/><rect x="18" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-11: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:39.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="0.26s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.26s" dur="0.4s" fill="freeze" additive="replace"/><rect x="33" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-12: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:39.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="0.26s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.26s" dur="0.4s" fill="freeze" additive="replace"/><rect x="33" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-13: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:39.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="0.26s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.26s" dur="0.4s" fill="freeze" additive="replace"/><rect x="33" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-14: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:39.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="0.26s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.26s" dur="0.4s" fill="freeze" additive="replace"/><rect x="33" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-15: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:39.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="0.26s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.26s" dur="0.4s" fill="freeze" additive="replace"/><rect x="33" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-16: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:39.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="0.26s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.26s" dur="0.4s" fill="freeze" additive="replace"/><rect x="33" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-17: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:39.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="0.26s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.26s" dur="0.4s" fill="freeze" additive="replace"/><rect x="33" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-18: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:54.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.39s" dur="0.4s" fill="freeze" additive="replace"/><rect x="48" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-19: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:54.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.39s" dur="0.4s" fill="freeze" additive="replace"/><rect x="48" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-20: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:54.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.39s" dur="0.4s" fill="freeze" additive="replace"/><rect x="48" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-21: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:54.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.39s" dur="0.4s" fill="freeze" additive="replace"/><rect x="48" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-22: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:54.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.39s" dur="0.4s" fill="freeze" additive="replace"/><rect x="48" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-23: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:54.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.39s" dur="0.4s" fill="freeze" additive="replace"/><rect x="48" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-24: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:54.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.39s" dur="0.4s" fill="freeze" additive="replace"/><rect x="48" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-25: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:69.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="0.52s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.52s" dur="0.4s" fill="freeze" additive="replace"/><rect x="63" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-26: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:69.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="0.52s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.52s" dur="0.4s" fill="freeze" additive="replace"/><rect x="63" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-27: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:69.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="0.52s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.52s" dur="0.4s" fill="freeze" additive="replace"/><rect x="63" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-28: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:69.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="0.52s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.52s" dur="0.4s" fill="freeze" additive="replace"/><rect x="63" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-29: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:69.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="0.52s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.52s" dur="0.4s" fill="freeze" additive="replace"/><rect x="63" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-30: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:69.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="0.52s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.52s" dur="0.4s" fill="freeze" additive="replace"/><rect x="63" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2025-10-31: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:69.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="0.52s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.52s" dur="0.4s" fill="freeze" additive="replace"/><rect x="63" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-01: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:84.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.65s" dur="0.4s" fill="freeze" additive="replace"/><rect x="78" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-02: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:84.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.65s" dur="0.4s" fill="freeze" additive="replace"/><rect x="78" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-03: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:84.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.65s" dur="0.4s" fill="freeze" additive="replace"/><rect x="78" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-04: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:84.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.65s" dur="0.4s" fill="freeze" additive="replace"/><rect x="78" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-05: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:84.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.65s" dur="0.4s" fill="freeze" additive="replace"/><rect x="78" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-06: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:84.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.65s" dur="0.4s" fill="freeze" additive="replace"/><rect x="78" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-07: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:84.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.65s" dur="0.4s" fill="freeze" additive="replace"/><rect x="78" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-08: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:99.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.78s" dur="0.4s" fill="freeze" additive="replace"/><rect x="93" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-09: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:99.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.78s" dur="0.4s" fill="freeze" additive="replace"/><rect x="93" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-10: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:99.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.78s" dur="0.4s" fill="freeze" additive="replace"/><rect x="93" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-11: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:99.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.78s" dur="0.4s" fill="freeze" additive="replace"/><rect x="93" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-12: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:99.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.78s" dur="0.4s" fill="freeze" additive="replace"/><rect x="93" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-13: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:99.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.78s" dur="0.4s" fill="freeze" additive="replace"/><rect x="93" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-14: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:99.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.78s" dur="0.4s" fill="freeze" additive="replace"/><rect x="93" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-15: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:114.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.92s" dur="0.4s" fill="freeze" additive="replace"/><rect x="108" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-16: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:114.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.92s" dur="0.4s" fill="freeze" additive="replace"/><rect x="108" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-17: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:114.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.92s" dur="0.4s" fill="freeze" additive="replace"/><rect x="108" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-18: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:114.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.92s" dur="0.4s" fill="freeze" additive="replace"/><rect x="108" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-19: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:114.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.92s" dur="0.4s" fill="freeze" additive="replace"/><rect x="108" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-20: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:114.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.92s" dur="0.4s" fill="freeze" additive="replace"/><rect x="108" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-21: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:114.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="0.92s" dur="0.4s" fill="freeze" additive="replace"/><rect x="108" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-22: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:129.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.05s" dur="0.4s" fill="freeze" additive="replace"/><rect x="123" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-23: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:129.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.05s" dur="0.4s" fill="freeze" additive="replace"/><rect x="123" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-24: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:129.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.05s" dur="0.4s" fill="freeze" additive="replace"/><rect x="123" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-25: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:129.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.05s" dur="0.4s" fill="freeze" additive="replace"/><rect x="123" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-26: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:129.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.05s" dur="0.4s" fill="freeze" additive="replace"/><rect x="123" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-27: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:129.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.05s" dur="0.4s" fill="freeze" additive="replace"/><rect x="123" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-28: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:129.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.05s" dur="0.4s" fill="freeze" additive="replace"/><rect x="123" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-29: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:144.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="1.18s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.18s" dur="0.4s" fill="freeze" additive="replace"/><rect x="138" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2025-11-30: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:144.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="1.18s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.18s" dur="0.4s" fill="freeze" additive="replace"/><rect x="138" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-01: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:144.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="1.18s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.18s" dur="0.4s" fill="freeze" additive="replace"/><rect x="138" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-02: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:144.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="1.18s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.18s" dur="0.4s" fill="freeze" additive="replace"/><rect x="138" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-03: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:144.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="1.18s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.18s" dur="0.4s" fill="freeze" additive="replace"/><rect x="138" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-04: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:144.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="1.18s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.18s" dur="0.4s" fill="freeze" additive="replace"/><rect x="138" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-05: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:144.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="1.18s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.18s" dur="0.4s" fill="freeze" additive="replace"/><rect x="138" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-06: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:159.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="1.31s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.31s" dur="0.4s" fill="freeze" additive="replace"/><rect x="153" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-07: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:159.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="1.31s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.31s" dur="0.4s" fill="freeze" additive="replace"/><rect x="153" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-08: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:159.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="1.31s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.31s" dur="0.4s" fill="freeze" additive="replace"/><rect x="153" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-09: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:159.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="1.31s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.31s" dur="0.4s" fill="freeze" additive="replace"/><rect x="153" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-10: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:159.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="1.31s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.31s" dur="0.4s" fill="freeze" additive="replace"/><rect x="153" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-11: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:159.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="1.31s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.31s" dur="0.4s" fill="freeze" additive="replace"/><rect x="153" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-12: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:159.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="1.31s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.31s" dur="0.4s" fill="freeze" additive="replace"/><rect x="153" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-13: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:174.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="1.44s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.44s" dur="0.4s" fill="freeze" additive="replace"/><rect x="168" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-14: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:174.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="1.44s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.44s" dur="0.4s" fill="freeze" additive="replace"/><rect x="168" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-15: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:174.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="1.44s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.44s" dur="0.4s" fill="freeze" additive="replace"/><rect x="168" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-16: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:174.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="1.44s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.44s" dur="0.4s" fill="freeze" additive="replace"/><rect x="168" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-17: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:174.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="1.44s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.44s" dur="0.4s" fill="freeze" additive="replace"/><rect x="168" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-18: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:174.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="1.44s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.44s" dur="0.4s" fill="freeze" additive="replace"/><rect x="168" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-19: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:174.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="1.44s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.44s" dur="0.4s" fill="freeze" additive="replace"/><rect x="168" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-20: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:189.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="1.57s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.57s" dur="0.4s" fill="freeze" additive="replace"/><rect x="183" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-21: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:189.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="1.57s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.57s" dur="0.4s" fill="freeze" additive="replace"/><rect x="183" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-22: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:189.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="1.57s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.57s" dur="0.4s" fill="freeze" additive="replace"/><rect x="183" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-23: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:189.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="1.57s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.57s" dur="0.4s" fill="freeze" additive="replace"/><rect x="183" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-24: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:189.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="1.57s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.57s" dur="0.4s" fill="freeze" additive="replace"/><rect x="183" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-25: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:189.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="1.57s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.57s" dur="0.4s" fill="freeze" additive="replace"/><rect x="183" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-26: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:189.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="1.57s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.57s" dur="0.4s" fill="freeze" additive="replace"/><rect x="183" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-27: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:204.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.70s" dur="0.4s" fill="freeze" additive="replace"/><rect x="198" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-28: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:204.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.70s" dur="0.4s" fill="freeze" additive="replace"/><rect x="198" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-29: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:204.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.70s" dur="0.4s" fill="freeze" additive="replace"/><rect x="198" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-30: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:204.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.70s" dur="0.4s" fill="freeze" additive="replace"/><rect x="198" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2025-12-31: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:204.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.70s" dur="0.4s" fill="freeze" additive="replace"/><rect x="198" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-01: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:204.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.70s" dur="0.4s" fill="freeze" additive="replace"/><rect x="198" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-02: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:204.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.70s" dur="0.4s" fill="freeze" additive="replace"/><rect x="198" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-03: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:219.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="1.83s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.83s" dur="0.4s" fill="freeze" additive="replace"/><rect x="213" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-04: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:219.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="1.83s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.83s" dur="0.4s" fill="freeze" additive="replace"/><rect x="213" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-05: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:219.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="1.83s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.83s" dur="0.4s" fill="freeze" additive="replace"/><rect x="213" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-06: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:219.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="1.83s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.83s" dur="0.4s" fill="freeze" additive="replace"/><rect x="213" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-07: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:219.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="1.83s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.83s" dur="0.4s" fill="freeze" additive="replace"/><rect x="213" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-08: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:219.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="1.83s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.83s" dur="0.4s" fill="freeze" additive="replace"/><rect x="213" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-09: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:219.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="1.83s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.83s" dur="0.4s" fill="freeze" additive="replace"/><rect x="213" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-10: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:234.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="1.96s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.96s" dur="0.4s" fill="freeze" additive="replace"/><rect x="228" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-11: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:234.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="1.96s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.96s" dur="0.4s" fill="freeze" additive="replace"/><rect x="228" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-12: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:234.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="1.96s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.96s" dur="0.4s" fill="freeze" additive="replace"/><rect x="228" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-13: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:234.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="1.96s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.96s" dur="0.4s" fill="freeze" additive="replace"/><rect x="228" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-14: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:234.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="1.96s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.96s" dur="0.4s" fill="freeze" additive="replace"/><rect x="228" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-15: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:234.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="1.96s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.96s" dur="0.4s" fill="freeze" additive="replace"/><rect x="228" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-16: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:234.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="1.96s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="1.96s" dur="0.4s" fill="freeze" additive="replace"/><rect x="228" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-17: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:249.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="2.09s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.09s" dur="0.4s" fill="freeze" additive="replace"/><rect x="243" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-18: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:249.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="2.09s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.09s" dur="0.4s" fill="freeze" additive="replace"/><rect x="243" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-19: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:249.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="2.09s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.09s" dur="0.4s" fill="freeze" additive="replace"/><rect x="243" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-20: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:249.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="2.09s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.09s" dur="0.4s" fill="freeze" additive="replace"/><rect x="243" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-21: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:249.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="2.09s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.09s" dur="0.4s" fill="freeze" additive="replace"/><rect x="243" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-22: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:249.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="2.09s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.09s" dur="0.4s" fill="freeze" additive="replace"/><rect x="243" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-23: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:249.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="2.09s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.09s" dur="0.4s" fill="freeze" additive="replace"/><rect x="243" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-24: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:264.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="2.22s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.22s" dur="0.4s" fill="freeze" additive="replace"/><rect x="258" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-25: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:264.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="2.22s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.22s" dur="0.4s" fill="freeze" additive="replace"/><rect x="258" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-26: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:264.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="2.22s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.22s" dur="0.4s" fill="freeze" additive="replace"/><rect x="258" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-27: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:264.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="2.22s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.22s" dur="0.4s" fill="freeze" additive="replace"/><rect x="258" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-28: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:264.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="2.22s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.22s" dur="0.4s" fill="freeze" additive="replace"/><rect x="258" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-29: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:264.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="2.22s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.22s" dur="0.4s" fill="freeze" additive="replace"/><rect x="258" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-30: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:264.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="2.22s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.22s" dur="0.4s" fill="freeze" additive="replace"/><rect x="258" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-01-31: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:279.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="2.35s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.35s" dur="0.4s" fill="freeze" additive="replace"/><rect x="273" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-01: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:279.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="2.35s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.35s" dur="0.4s" fill="freeze" additive="replace"/><rect x="273" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-02: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:279.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="2.35s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.35s" dur="0.4s" fill="freeze" additive="replace"/><rect x="273" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-03: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:279.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="2.35s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.35s" dur="0.4s" fill="freeze" additive="replace"/><rect x="273" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-04: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:279.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="2.35s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.35s" dur="0.4s" fill="freeze" additive="replace"/><rect x="273" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-05: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:279.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="2.35s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.35s" dur="0.4s" fill="freeze" additive="replace"/><rect x="273" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-06: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:279.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="2.35s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.35s" dur="0.4s" fill="freeze" additive="replace"/><rect x="273" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-07: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:294.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="2.48s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.48s" dur="0.4s" fill="freeze" additive="replace"/><rect x="288" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-08: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:294.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="2.48s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.48s" dur="0.4s" fill="freeze" additive="replace"/><rect x="288" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-09: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:294.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="2.48s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.48s" dur="0.4s" fill="freeze" additive="replace"/><rect x="288" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-10: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:294.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="2.48s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.48s" dur="0.4s" fill="freeze" additive="replace"/><rect x="288" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-11: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:294.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="2.48s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.48s" dur="0.4s" fill="freeze" additive="replace"/><rect x="288" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-12: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:294.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="2.48s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.48s" dur="0.4s" fill="freeze" additive="replace"/><rect x="288" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-13: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:294.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="2.48s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.48s" dur="0.4s" fill="freeze" additive="replace"/><rect x="288" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-14: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:309.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="2.62s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.62s" dur="0.4s" fill="freeze" additive="replace"/><rect x="303" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-15: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:309.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="2.62s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.62s" dur="0.4s" fill="freeze" additive="replace"/><rect x="303" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-16: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:309.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="2.62s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.62s" dur="0.4s" fill="freeze" additive="replace"/><rect x="303" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-17: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:309.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="2.62s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.62s" dur="0.4s" fill="freeze" additive="replace"/><rect x="303" y="68" width="12" height="12" rx="2" fill="#0e4429"><title>2026-02-18: 2 commits</title></rect>
+<text x="309.0" y="76.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">2</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:309.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="2.62s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.62s" dur="0.4s" fill="freeze" additive="replace"/><rect x="303" y="83" width="12" height="12" rx="2" fill="#0e4429"><title>2026-02-19: 2 commits</title></rect>
+<text x="309.0" y="91.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">2</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:309.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="2.62s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.62s" dur="0.4s" fill="freeze" additive="replace"/><rect x="303" y="98" width="12" height="12" rx="2" fill="#26a641"><title>2026-02-20: 7 commits</title></rect>
+<text x="309.0" y="106.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">7</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:309.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="2.62s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.62s" dur="0.4s" fill="freeze" additive="replace"/><rect x="303" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-21: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:324.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="2.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.75s" dur="0.4s" fill="freeze" additive="replace"/><rect x="318" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-22: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:324.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="2.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.75s" dur="0.4s" fill="freeze" additive="replace"/><rect x="318" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-23: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:324.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="2.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.75s" dur="0.4s" fill="freeze" additive="replace"/><rect x="318" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-24: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:324.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="2.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.75s" dur="0.4s" fill="freeze" additive="replace"/><rect x="318" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-25: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:324.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="2.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.75s" dur="0.4s" fill="freeze" additive="replace"/><rect x="318" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-26: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:324.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="2.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.75s" dur="0.4s" fill="freeze" additive="replace"/><rect x="318" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-27: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:324.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="2.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.75s" dur="0.4s" fill="freeze" additive="replace"/><rect x="318" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-28: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:339.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="2.88s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.88s" dur="0.4s" fill="freeze" additive="replace"/><rect x="333" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-01: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:339.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="2.88s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.88s" dur="0.4s" fill="freeze" additive="replace"/><rect x="333" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-02: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:339.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="2.88s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.88s" dur="0.4s" fill="freeze" additive="replace"/><rect x="333" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-03: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:339.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="2.88s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.88s" dur="0.4s" fill="freeze" additive="replace"/><rect x="333" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-04: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:339.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="2.88s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.88s" dur="0.4s" fill="freeze" additive="replace"/><rect x="333" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-05: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:339.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="2.88s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.88s" dur="0.4s" fill="freeze" additive="replace"/><rect x="333" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-06: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:339.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="2.88s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="2.88s" dur="0.4s" fill="freeze" additive="replace"/><rect x="333" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-07: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:354.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="3.01s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.01s" dur="0.4s" fill="freeze" additive="replace"/><rect x="348" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-08: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:354.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="3.01s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.01s" dur="0.4s" fill="freeze" additive="replace"/><rect x="348" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-09: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:354.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="3.01s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.01s" dur="0.4s" fill="freeze" additive="replace"/><rect x="348" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-10: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:354.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="3.01s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.01s" dur="0.4s" fill="freeze" additive="replace"/><rect x="348" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-11: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:354.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="3.01s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.01s" dur="0.4s" fill="freeze" additive="replace"/><rect x="348" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-12: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:354.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="3.01s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.01s" dur="0.4s" fill="freeze" additive="replace"/><rect x="348" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-13: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:354.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="3.01s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.01s" dur="0.4s" fill="freeze" additive="replace"/><rect x="348" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-14: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:369.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="3.14s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.14s" dur="0.4s" fill="freeze" additive="replace"/><rect x="363" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-15: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:369.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="3.14s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.14s" dur="0.4s" fill="freeze" additive="replace"/><rect x="363" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-16: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:369.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="3.14s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.14s" dur="0.4s" fill="freeze" additive="replace"/><rect x="363" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-17: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:369.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="3.14s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.14s" dur="0.4s" fill="freeze" additive="replace"/><rect x="363" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-18: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:369.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="3.14s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.14s" dur="0.4s" fill="freeze" additive="replace"/><rect x="363" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-19: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:369.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="3.14s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.14s" dur="0.4s" fill="freeze" additive="replace"/><rect x="363" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-20: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:369.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="3.14s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.14s" dur="0.4s" fill="freeze" additive="replace"/><rect x="363" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-21: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:384.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="3.27s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.27s" dur="0.4s" fill="freeze" additive="replace"/><rect x="378" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-22: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:384.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="3.27s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.27s" dur="0.4s" fill="freeze" additive="replace"/><rect x="378" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-23: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:384.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="3.27s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.27s" dur="0.4s" fill="freeze" additive="replace"/><rect x="378" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-24: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:384.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="3.27s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.27s" dur="0.4s" fill="freeze" additive="replace"/><rect x="378" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-25: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:384.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="3.27s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.27s" dur="0.4s" fill="freeze" additive="replace"/><rect x="378" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-26: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:384.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="3.27s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.27s" dur="0.4s" fill="freeze" additive="replace"/><rect x="378" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-27: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:384.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="3.27s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.27s" dur="0.4s" fill="freeze" additive="replace"/><rect x="378" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-28: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:399.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="3.40s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.40s" dur="0.4s" fill="freeze" additive="replace"/><rect x="393" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-29: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:399.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="3.40s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.40s" dur="0.4s" fill="freeze" additive="replace"/><rect x="393" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-30: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:399.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="3.40s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.40s" dur="0.4s" fill="freeze" additive="replace"/><rect x="393" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-31: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:399.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="3.40s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.40s" dur="0.4s" fill="freeze" additive="replace"/><rect x="393" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-01: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:399.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="3.40s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.40s" dur="0.4s" fill="freeze" additive="replace"/><rect x="393" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-02: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:399.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="3.40s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.40s" dur="0.4s" fill="freeze" additive="replace"/><rect x="393" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-03: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:399.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="3.40s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.40s" dur="0.4s" fill="freeze" additive="replace"/><rect x="393" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-04: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:414.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="3.53s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.53s" dur="0.4s" fill="freeze" additive="replace"/><rect x="408" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-05: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:414.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="3.53s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.53s" dur="0.4s" fill="freeze" additive="replace"/><rect x="408" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-06: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:414.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="3.53s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.53s" dur="0.4s" fill="freeze" additive="replace"/><rect x="408" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-07: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:414.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="3.53s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.53s" dur="0.4s" fill="freeze" additive="replace"/><rect x="408" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-08: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:414.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="3.53s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.53s" dur="0.4s" fill="freeze" additive="replace"/><rect x="408" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-09: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:414.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="3.53s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.53s" dur="0.4s" fill="freeze" additive="replace"/><rect x="408" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-10: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:414.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="3.53s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.53s" dur="0.4s" fill="freeze" additive="replace"/><rect x="408" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-11: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:429.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="3.66s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.66s" dur="0.4s" fill="freeze" additive="replace"/><rect x="423" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-12: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:429.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="3.66s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.66s" dur="0.4s" fill="freeze" additive="replace"/><rect x="423" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-13: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:429.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="3.66s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.66s" dur="0.4s" fill="freeze" additive="replace"/><rect x="423" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-14: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:429.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="3.66s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.66s" dur="0.4s" fill="freeze" additive="replace"/><rect x="423" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-15: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:429.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="3.66s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.66s" dur="0.4s" fill="freeze" additive="replace"/><rect x="423" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-16: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:429.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="3.66s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.66s" dur="0.4s" fill="freeze" additive="replace"/><rect x="423" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-17: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:429.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="3.66s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.66s" dur="0.4s" fill="freeze" additive="replace"/><rect x="423" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-18: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:444.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="3.79s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.79s" dur="0.4s" fill="freeze" additive="replace"/><rect x="438" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-19: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:444.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="3.79s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.79s" dur="0.4s" fill="freeze" additive="replace"/><rect x="438" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-20: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:444.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="3.79s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.79s" dur="0.4s" fill="freeze" additive="replace"/><rect x="438" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-21: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:444.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="3.79s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.79s" dur="0.4s" fill="freeze" additive="replace"/><rect x="438" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-22: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:444.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="3.79s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.79s" dur="0.4s" fill="freeze" additive="replace"/><rect x="438" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-23: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:444.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="3.79s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.79s" dur="0.4s" fill="freeze" additive="replace"/><rect x="438" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-24: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:444.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="3.79s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.79s" dur="0.4s" fill="freeze" additive="replace"/><rect x="438" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-25: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:459.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="3.92s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.92s" dur="0.4s" fill="freeze" additive="replace"/><rect x="453" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-26: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:459.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="3.92s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.92s" dur="0.4s" fill="freeze" additive="replace"/><rect x="453" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-27: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:459.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="3.92s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.92s" dur="0.4s" fill="freeze" additive="replace"/><rect x="453" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-28: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:459.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="3.92s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.92s" dur="0.4s" fill="freeze" additive="replace"/><rect x="453" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-29: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:459.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="3.92s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.92s" dur="0.4s" fill="freeze" additive="replace"/><rect x="453" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-30: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:459.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="3.92s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.92s" dur="0.4s" fill="freeze" additive="replace"/><rect x="453" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-01: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:459.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="3.92s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="3.92s" dur="0.4s" fill="freeze" additive="replace"/><rect x="453" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-02: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:474.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="4.05s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.05s" dur="0.4s" fill="freeze" additive="replace"/><rect x="468" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-03: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:474.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="4.05s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.05s" dur="0.4s" fill="freeze" additive="replace"/><rect x="468" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-04: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:474.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="4.05s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.05s" dur="0.4s" fill="freeze" additive="replace"/><rect x="468" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-05: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:474.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="4.05s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.05s" dur="0.4s" fill="freeze" additive="replace"/><rect x="468" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-06: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:474.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="4.05s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.05s" dur="0.4s" fill="freeze" additive="replace"/><rect x="468" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-07: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:474.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="4.05s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.05s" dur="0.4s" fill="freeze" additive="replace"/><rect x="468" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-08: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:474.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="4.05s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.05s" dur="0.4s" fill="freeze" additive="replace"/><rect x="468" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-09: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:489.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="4.18s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.18s" dur="0.4s" fill="freeze" additive="replace"/><rect x="483" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-10: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:489.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="4.18s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.18s" dur="0.4s" fill="freeze" additive="replace"/><rect x="483" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-11: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:489.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="4.18s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.18s" dur="0.4s" fill="freeze" additive="replace"/><rect x="483" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-12: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:489.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="4.18s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.18s" dur="0.4s" fill="freeze" additive="replace"/><rect x="483" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-13: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:489.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="4.18s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.18s" dur="0.4s" fill="freeze" additive="replace"/><rect x="483" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-14: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:489.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="4.18s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.18s" dur="0.4s" fill="freeze" additive="replace"/><rect x="483" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-15: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:489.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="4.18s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.18s" dur="0.4s" fill="freeze" additive="replace"/><rect x="483" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-16: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:504.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="4.32s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.32s" dur="0.4s" fill="freeze" additive="replace"/><rect x="498" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-17: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:504.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="4.32s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.32s" dur="0.4s" fill="freeze" additive="replace"/><rect x="498" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-18: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:504.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="4.32s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.32s" dur="0.4s" fill="freeze" additive="replace"/><rect x="498" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-19: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:504.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="4.32s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.32s" dur="0.4s" fill="freeze" additive="replace"/><rect x="498" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-20: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:504.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="4.32s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.32s" dur="0.4s" fill="freeze" additive="replace"/><rect x="498" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-21: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:504.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="4.32s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.32s" dur="0.4s" fill="freeze" additive="replace"/><rect x="498" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-22: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:504.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="4.32s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.32s" dur="0.4s" fill="freeze" additive="replace"/><rect x="498" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-23: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:519.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="4.45s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.45s" dur="0.4s" fill="freeze" additive="replace"/><rect x="513" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-24: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:519.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="4.45s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.45s" dur="0.4s" fill="freeze" additive="replace"/><rect x="513" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-25: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:519.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="4.45s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.45s" dur="0.4s" fill="freeze" additive="replace"/><rect x="513" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-26: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:519.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="4.45s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.45s" dur="0.4s" fill="freeze" additive="replace"/><rect x="513" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-27: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:519.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="4.45s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.45s" dur="0.4s" fill="freeze" additive="replace"/><rect x="513" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-28: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:519.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="4.45s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.45s" dur="0.4s" fill="freeze" additive="replace"/><rect x="513" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-29: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:519.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="4.45s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.45s" dur="0.4s" fill="freeze" additive="replace"/><rect x="513" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-30: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:534.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="4.58s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.58s" dur="0.4s" fill="freeze" additive="replace"/><rect x="528" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-31: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:534.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="4.58s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.58s" dur="0.4s" fill="freeze" additive="replace"/><rect x="528" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-01: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:534.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="4.58s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.58s" dur="0.4s" fill="freeze" additive="replace"/><rect x="528" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-02: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:534.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="4.58s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.58s" dur="0.4s" fill="freeze" additive="replace"/><rect x="528" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-03: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:534.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="4.58s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.58s" dur="0.4s" fill="freeze" additive="replace"/><rect x="528" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-04: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:534.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="4.58s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.58s" dur="0.4s" fill="freeze" additive="replace"/><rect x="528" y="98" width="12" height="12" rx="2" fill="#0e4429"><title>2026-06-05: 1 commit</title></rect>
+<text x="534.0" y="106.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">1</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:534.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="4.58s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.58s" dur="0.4s" fill="freeze" additive="replace"/><rect x="528" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-06: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:549.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="4.71s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.71s" dur="0.4s" fill="freeze" additive="replace"/><rect x="543" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-07: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:549.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="4.71s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.71s" dur="0.4s" fill="freeze" additive="replace"/><rect x="543" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-08: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:549.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="4.71s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.71s" dur="0.4s" fill="freeze" additive="replace"/><rect x="543" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-09: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:549.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="4.71s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.71s" dur="0.4s" fill="freeze" additive="replace"/><rect x="543" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-10: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:549.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="4.71s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.71s" dur="0.4s" fill="freeze" additive="replace"/><rect x="543" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-11: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:549.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="4.71s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.71s" dur="0.4s" fill="freeze" additive="replace"/><rect x="543" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-12: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:549.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="4.71s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.71s" dur="0.4s" fill="freeze" additive="replace"/><rect x="543" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-13: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:564.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="4.84s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.84s" dur="0.4s" fill="freeze" additive="replace"/><rect x="558" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-14: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:564.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="4.84s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.84s" dur="0.4s" fill="freeze" additive="replace"/><rect x="558" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-15: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:564.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="4.84s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.84s" dur="0.4s" fill="freeze" additive="replace"/><rect x="558" y="53" width="12" height="12" rx="2" fill="#006d32"><title>2026-06-16: 5 commits</title></rect>
+<text x="564.0" y="61.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">5</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:564.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="4.84s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.84s" dur="0.4s" fill="freeze" additive="replace"/><rect x="558" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-17: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:564.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="4.84s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.84s" dur="0.4s" fill="freeze" additive="replace"/><rect x="558" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-18: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:564.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="4.84s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.84s" dur="0.4s" fill="freeze" additive="replace"/><rect x="558" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-19: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:564.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="4.84s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.84s" dur="0.4s" fill="freeze" additive="replace"/><rect x="558" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-20: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:579.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="4.97s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.97s" dur="0.4s" fill="freeze" additive="replace"/><rect x="573" y="23" width="12" height="12" rx="2" fill="#26a641"><title>2026-06-21: 8 commits</title></rect>
+<text x="579.0" y="31.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">8</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:579.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="4.97s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.97s" dur="0.4s" fill="freeze" additive="replace"/><rect x="573" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-22: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:579.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="4.97s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.97s" dur="0.4s" fill="freeze" additive="replace"/><rect x="573" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-23: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:579.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="4.97s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.97s" dur="0.4s" fill="freeze" additive="replace"/><rect x="573" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-24: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:579.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="4.97s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.97s" dur="0.4s" fill="freeze" additive="replace"/><rect x="573" y="83" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-25: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:579.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="4.97s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.97s" dur="0.4s" fill="freeze" additive="replace"/><rect x="573" y="98" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-26: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:579.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="4.97s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="4.97s" dur="0.4s" fill="freeze" additive="replace"/><rect x="573" y="113" width="12" height="12" rx="2" fill="#39d353"><title>2026-06-27: 19 commits</title></rect>
+<text x="579.0" y="121.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">19</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:594.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="5.10s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.10s" dur="0.4s" fill="freeze" additive="replace"/><rect x="588" y="23" width="12" height="12" rx="2" fill="#006d32"><title>2026-06-28: 4 commits</title></rect>
+<text x="594.0" y="31.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:594.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="5.10s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.10s" dur="0.4s" fill="freeze" additive="replace"/><rect x="588" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-06-29: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:594.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="5.10s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.10s" dur="0.4s" fill="freeze" additive="replace"/><rect x="588" y="53" width="12" height="12" rx="2" fill="#0e4429"><title>2026-06-30: 1 commit</title></rect>
+<text x="594.0" y="61.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">1</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:594.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="5.10s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.10s" dur="0.4s" fill="freeze" additive="replace"/><rect x="588" y="68" width="12" height="12" rx="2" fill="#0e4429"><title>2026-07-01: 1 commit</title></rect>
+<text x="594.0" y="76.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">1</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:594.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="5.10s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.10s" dur="0.4s" fill="freeze" additive="replace"/><rect x="588" y="83" width="12" height="12" rx="2" fill="#0e4429"><title>2026-07-02: 1 commit</title></rect>
+<text x="594.0" y="91.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">1</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:594.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="5.10s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.10s" dur="0.4s" fill="freeze" additive="replace"/><rect x="588" y="98" width="12" height="12" rx="2" fill="#006d32"><title>2026-07-03: 3 commits</title></rect>
+<text x="594.0" y="106.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">3</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:594.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="5.10s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.10s" dur="0.4s" fill="freeze" additive="replace"/><rect x="588" y="113" width="12" height="12" rx="2" fill="#006d32"><title>2026-07-04: 4 commits</title></rect>
+<text x="594.0" y="121.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:609.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="5.23s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.23s" dur="0.4s" fill="freeze" additive="replace"/><rect x="603" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-07-05: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:609.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="5.23s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.23s" dur="0.4s" fill="freeze" additive="replace"/><rect x="603" y="38" width="12" height="12" rx="2" fill="#006d32"><title>2026-07-06: 3 commits</title></rect>
+<text x="609.0" y="46.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">3</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:609.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="5.23s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.23s" dur="0.4s" fill="freeze" additive="replace"/><rect x="603" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-07-07: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:609.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="5.23s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.23s" dur="0.4s" fill="freeze" additive="replace"/><rect x="603" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-07-08: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:609.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="5.23s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.23s" dur="0.4s" fill="freeze" additive="replace"/><rect x="603" y="83" width="12" height="12" rx="2" fill="#26a641"><title>2026-07-09: 9 commits</title></rect>
+<text x="609.0" y="91.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">9</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:609.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="5.23s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.23s" dur="0.4s" fill="freeze" additive="replace"/><rect x="603" y="98" width="12" height="12" rx="2" fill="#39d353"><title>2026-07-10: 24 commits</title></rect>
+<text x="609.0" y="106.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">24</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:609.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="5.23s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.23s" dur="0.4s" fill="freeze" additive="replace"/><rect x="603" y="113" width="12" height="12" rx="2" fill="#39d353"><title>2026-07-11: 15 commits</title></rect>
+<text x="609.0" y="121.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">15</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:624.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="5.36s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.36s" dur="0.4s" fill="freeze" additive="replace"/><rect x="618" y="23" width="12" height="12" rx="2" fill="#39d353"><title>2026-07-12: 14 commits</title></rect>
+<text x="624.0" y="31.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">14</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:624.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="5.36s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.36s" dur="0.4s" fill="freeze" additive="replace"/><rect x="618" y="38" width="12" height="12" rx="2" fill="#39d353"><title>2026-07-13: 44 commits</title></rect>
+<text x="624.0" y="46.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">44</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:624.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="5.36s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.36s" dur="0.4s" fill="freeze" additive="replace"/><rect x="618" y="53" width="12" height="12" rx="2" fill="#006d32"><title>2026-07-14: 5 commits</title></rect>
+<text x="624.0" y="61.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">5</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:624.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="5.36s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.36s" dur="0.4s" fill="freeze" additive="replace"/><rect x="618" y="68" width="12" height="12" rx="2" fill="#0e4429"><title>2026-07-15: 2 commits</title></rect>
+<text x="624.0" y="76.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">2</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:624.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="5.36s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.36s" dur="0.4s" fill="freeze" additive="replace"/><rect x="618" y="83" width="12" height="12" rx="2" fill="#39d353"><title>2026-07-16: 18 commits</title></rect>
+<text x="624.0" y="91.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">18</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:624.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="5.36s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.36s" dur="0.4s" fill="freeze" additive="replace"/><rect x="618" y="98" width="12" height="12" rx="2" fill="#26a641"><title>2026-07-17: 8 commits</title></rect>
+<text x="624.0" y="106.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">8</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:624.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="5.36s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.36s" dur="0.4s" fill="freeze" additive="replace"/><rect x="618" y="113" width="12" height="12" rx="2" fill="#006d32"><title>2026-07-18: 5 commits</title></rect>
+<text x="624.0" y="121.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">5</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:639.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="5.49s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.49s" dur="0.4s" fill="freeze" additive="replace"/><rect x="633" y="23" width="12" height="12" rx="2" fill="#006d32"><title>2026-07-19: 4 commits</title></rect>
+<text x="639.0" y="31.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:639.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="5.49s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.49s" dur="0.4s" fill="freeze" additive="replace"/><rect x="633" y="38" width="12" height="12" rx="2" fill="#006d32"><title>2026-07-20: 5 commits</title></rect>
+<text x="639.0" y="46.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">5</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:639.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="5.49s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.49s" dur="0.4s" fill="freeze" additive="replace"/><rect x="633" y="53" width="12" height="12" rx="2" fill="#39d353"><title>2026-07-21: 16 commits</title></rect>
+<text x="639.0" y="61.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">16</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:639.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="5.49s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.49s" dur="0.4s" fill="freeze" additive="replace"/><rect x="633" y="68" width="12" height="12" rx="2" fill="#006d32"><title>2026-07-22: 5 commits</title></rect>
+<text x="639.0" y="76.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">5</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:639.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="5.49s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.49s" dur="0.4s" fill="freeze" additive="replace"/><rect x="633" y="83" width="12" height="12" rx="2" fill="#39d353"><title>2026-07-23: 82 commits</title></rect>
+<text x="639.0" y="91.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">82</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:639.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="5.49s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.49s" dur="0.4s" fill="freeze" additive="replace"/><rect x="633" y="98" width="12" height="12" rx="2" fill="#39d353"><title>2026-07-24: 11 commits</title></rect>
+<text x="639.0" y="106.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">11</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:639.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="5.49s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.49s" dur="0.4s" fill="freeze" additive="replace"/><rect x="633" y="113" width="12" height="12" rx="2" fill="#006d32"><title>2026-07-25: 4 commits</title></rect>
+<text x="639.0" y="121.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:654.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="5.62s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.62s" dur="0.4s" fill="freeze" additive="replace"/><rect x="648" y="23" width="12" height="12" rx="2" fill="#39d353"><title>2026-07-26: 17 commits</title></rect>
+<text x="654.0" y="31.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">17</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:654.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="5.62s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.62s" dur="0.4s" fill="freeze" additive="replace"/><rect x="648" y="38" width="12" height="12" rx="2" fill="#006d32"><title>2026-07-27: 3 commits</title></rect>
+<text x="654.0" y="46.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">3</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:654.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="5.62s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.62s" dur="0.4s" fill="freeze" additive="replace"/><rect x="648" y="53" width="12" height="12" rx="2" fill="#006d32"><title>2026-07-28: 4 commits</title></rect>
+<text x="654.0" y="61.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:654.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="5.62s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.62s" dur="0.4s" fill="freeze" additive="replace"/><rect x="648" y="68" width="12" height="12" rx="2" fill="#26a641"><title>2026-07-29: 9 commits</title></rect>
+<text x="654.0" y="76.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">9</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:654.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="5.62s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.62s" dur="0.4s" fill="freeze" additive="replace"/><rect x="648" y="83" width="12" height="12" rx="2" fill="#39d353"><title>2026-07-30: 12 commits</title></rect>
+<text x="654.0" y="91.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">12</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:654.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="5.62s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.62s" dur="0.4s" fill="freeze" additive="replace"/><rect x="648" y="98" width="12" height="12" rx="2" fill="#26a641"><title>2026-07-31: 8 commits</title></rect>
+<text x="654.0" y="106.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">8</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:654.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="5.62s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.62s" dur="0.4s" fill="freeze" additive="replace"/><rect x="648" y="113" width="12" height="12" rx="2" fill="#006d32"><title>2026-08-01: 4 commits</title></rect>
+<text x="654.0" y="121.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:669.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="5.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.75s" dur="0.4s" fill="freeze" additive="replace"/><rect x="663" y="23" width="12" height="12" rx="2" fill="#006d32"><title>2026-08-02: 5 commits</title></rect>
+<text x="669.0" y="31.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">5</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:669.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="5.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.75s" dur="0.4s" fill="freeze" additive="replace"/><rect x="663" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-08-03: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:669.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="5.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.75s" dur="0.4s" fill="freeze" additive="replace"/><rect x="663" y="53" width="12" height="12" rx="2" fill="#161b22"><title>2026-08-04: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:669.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="5.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.75s" dur="0.4s" fill="freeze" additive="replace"/><rect x="663" y="68" width="12" height="12" rx="2" fill="#161b22"><title>2026-08-05: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:669.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="5.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.75s" dur="0.4s" fill="freeze" additive="replace"/><rect x="663" y="83" width="12" height="12" rx="2" fill="#0e4429"><title>2026-08-06: 1 commit</title></rect>
+<text x="669.0" y="91.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">1</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:669.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="5.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.75s" dur="0.4s" fill="freeze" additive="replace"/><rect x="663" y="98" width="12" height="12" rx="2" fill="#006d32"><title>2026-08-07: 3 commits</title></rect>
+<text x="669.0" y="106.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">3</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:669.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="5.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.75s" dur="0.4s" fill="freeze" additive="replace"/><rect x="663" y="113" width="12" height="12" rx="2" fill="#161b22"><title>2026-08-08: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:684.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="5.88s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.88s" dur="0.4s" fill="freeze" additive="replace"/><rect x="678" y="23" width="12" height="12" rx="2" fill="#161b22"><title>2026-08-09: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:684.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="5.88s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.88s" dur="0.4s" fill="freeze" additive="replace"/><rect x="678" y="38" width="12" height="12" rx="2" fill="#161b22"><title>2026-08-10: 0 commits</title></rect>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:684.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="5.88s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.88s" dur="0.4s" fill="freeze" additive="replace"/><rect x="678" y="53" width="12" height="12" rx="2" fill="#006d32"><title>2026-08-11: 4 commits</title></rect>
+<text x="684.0" y="61.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:684.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="5.88s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.88s" dur="0.4s" fill="freeze" additive="replace"/><rect x="678" y="68" width="12" height="12" rx="2" fill="#006d32"><title>2026-08-12: 3 commits</title></rect>
+<text x="684.0" y="76.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">3</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:684.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="5.88s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.88s" dur="0.4s" fill="freeze" additive="replace"/><rect x="678" y="83" width="12" height="12" rx="2" fill="#006d32"><title>2026-08-13: 4 commits</title></rect>
+<text x="684.0" y="91.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:684.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="5.88s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.88s" dur="0.4s" fill="freeze" additive="replace"/><rect x="678" y="98" width="12" height="12" rx="2" fill="#0e4429"><title>2026-08-14: 1 commit</title></rect>
+<text x="684.0" y="106.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">1</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:684.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="5.88s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="5.88s" dur="0.4s" fill="freeze" additive="replace"/><rect x="678" y="113" width="12" height="12" rx="2" fill="#26a641"><title>2026-08-15: 7 commits</title></rect>
+<text x="684.0" y="121.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">7</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:699.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="6.02s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.02s" dur="0.4s" fill="freeze" additive="replace"/><rect x="693" y="23" width="12" height="12" rx="2" fill="#006d32"><title>2026-08-16: 4 commits</title></rect>
+<text x="699.0" y="31.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:699.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="6.02s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.02s" dur="0.4s" fill="freeze" additive="replace"/><rect x="693" y="38" width="12" height="12" rx="2" fill="#006d32"><title>2026-08-17: 5 commits</title></rect>
+<text x="699.0" y="46.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">5</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:699.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="6.02s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.02s" dur="0.4s" fill="freeze" additive="replace"/><rect x="693" y="53" width="12" height="12" rx="2" fill="#006d32"><title>2026-08-18: 4 commits</title></rect>
+<text x="699.0" y="61.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:699.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="6.02s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.02s" dur="0.4s" fill="freeze" additive="replace"/><rect x="693" y="68" width="12" height="12" rx="2" fill="#26a641"><title>2026-08-19: 7 commits</title></rect>
+<text x="699.0" y="76.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">7</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:699.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="6.02s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.02s" dur="0.4s" fill="freeze" additive="replace"/><rect x="693" y="83" width="12" height="12" rx="2" fill="#26a641"><title>2026-08-20: 6 commits</title></rect>
+<text x="699.0" y="91.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">6</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:699.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="6.02s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.02s" dur="0.4s" fill="freeze" additive="replace"/><rect x="693" y="98" width="12" height="12" rx="2" fill="#26a641"><title>2026-08-21: 7 commits</title></rect>
+<text x="699.0" y="106.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">7</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:699.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="6.02s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.02s" dur="0.4s" fill="freeze" additive="replace"/><rect x="693" y="113" width="12" height="12" rx="2" fill="#006d32"><title>2026-08-22: 3 commits</title></rect>
+<text x="699.0" y="121.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">3</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:714.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="6.15s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.15s" dur="0.4s" fill="freeze" additive="replace"/><rect x="708" y="23" width="12" height="12" rx="2" fill="#39d353"><title>2026-08-23: 14 commits</title></rect>
+<text x="714.0" y="31.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">14</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:714.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="6.15s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.15s" dur="0.4s" fill="freeze" additive="replace"/><rect x="708" y="38" width="12" height="12" rx="2" fill="#006d32"><title>2026-08-24: 5 commits</title></rect>
+<text x="714.0" y="46.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">5</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:714.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="6.15s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.15s" dur="0.4s" fill="freeze" additive="replace"/><rect x="708" y="53" width="12" height="12" rx="2" fill="#26a641"><title>2026-08-25: 9 commits</title></rect>
+<text x="714.0" y="61.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">9</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:714.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="6.15s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.15s" dur="0.4s" fill="freeze" additive="replace"/><rect x="708" y="68" width="12" height="12" rx="2" fill="#26a641"><title>2026-08-26: 6 commits</title></rect>
+<text x="714.0" y="76.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">6</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:714.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="6.15s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.15s" dur="0.4s" fill="freeze" additive="replace"/><rect x="708" y="83" width="12" height="12" rx="2" fill="#39d353"><title>2026-08-27: 10 commits</title></rect>
+<text x="714.0" y="91.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">10</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:714.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="6.15s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.15s" dur="0.4s" fill="freeze" additive="replace"/><rect x="708" y="98" width="12" height="12" rx="2" fill="#26a641"><title>2026-08-28: 8 commits</title></rect>
+<text x="714.0" y="106.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">8</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:714.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="6.15s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.15s" dur="0.4s" fill="freeze" additive="replace"/><rect x="708" y="113" width="12" height="12" rx="2" fill="#39d353"><title>2026-08-29: 13 commits</title></rect>
+<text x="714.0" y="121.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">13</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:729.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="6.28s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.28s" dur="0.4s" fill="freeze" additive="replace"/><rect x="723" y="23" width="12" height="12" rx="2" fill="#006d32"><title>2026-08-30: 4 commits</title></rect>
+<text x="729.0" y="31.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:729.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="6.28s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.28s" dur="0.4s" fill="freeze" additive="replace"/><rect x="723" y="38" width="12" height="12" rx="2" fill="#26a641"><title>2026-08-31: 7 commits</title></rect>
+<text x="729.0" y="46.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">7</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:729.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="6.28s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.28s" dur="0.4s" fill="freeze" additive="replace"/><rect x="723" y="53" width="12" height="12" rx="2" fill="#0e4429"><title>2026-09-01: 2 commits</title></rect>
+<text x="729.0" y="61.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">2</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:729.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="6.28s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.28s" dur="0.4s" fill="freeze" additive="replace"/><rect x="723" y="68" width="12" height="12" rx="2" fill="#006d32"><title>2026-09-02: 4 commits</title></rect>
+<text x="729.0" y="76.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:729.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="6.28s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.28s" dur="0.4s" fill="freeze" additive="replace"/><rect x="723" y="83" width="12" height="12" rx="2" fill="#006d32"><title>2026-09-03: 3 commits</title></rect>
+<text x="729.0" y="91.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">3</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:729.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="6.28s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.28s" dur="0.4s" fill="freeze" additive="replace"/><rect x="723" y="98" width="12" height="12" rx="2" fill="#26a641"><title>2026-09-04: 7 commits</title></rect>
+<text x="729.0" y="106.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">7</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:729.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="6.28s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.28s" dur="0.4s" fill="freeze" additive="replace"/><rect x="723" y="113" width="12" height="12" rx="2" fill="#26a641"><title>2026-09-05: 7 commits</title></rect>
+<text x="729.0" y="121.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">7</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:744.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="6.41s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.41s" dur="0.4s" fill="freeze" additive="replace"/><rect x="738" y="23" width="12" height="12" rx="2" fill="#26a641"><title>2026-09-06: 6 commits</title></rect>
+<text x="744.0" y="31.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">6</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:744.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="6.41s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.41s" dur="0.4s" fill="freeze" additive="replace"/><rect x="738" y="38" width="12" height="12" rx="2" fill="#006d32"><title>2026-09-07: 3 commits</title></rect>
+<text x="744.0" y="46.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">3</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:744.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="6.41s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.41s" dur="0.4s" fill="freeze" additive="replace"/><rect x="738" y="53" width="12" height="12" rx="2" fill="#0e4429"><title>2026-09-08: 2 commits</title></rect>
+<text x="744.0" y="61.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">2</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:744.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="6.41s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.41s" dur="0.4s" fill="freeze" additive="replace"/><rect x="738" y="68" width="12" height="12" rx="2" fill="#0e4429"><title>2026-09-09: 1 commit</title></rect>
+<text x="744.0" y="76.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">1</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:744.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="6.41s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.41s" dur="0.4s" fill="freeze" additive="replace"/><rect x="738" y="83" width="12" height="12" rx="2" fill="#0e4429"><title>2026-09-10: 2 commits</title></rect>
+<text x="744.0" y="91.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">2</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:744.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="6.41s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.41s" dur="0.4s" fill="freeze" additive="replace"/><rect x="738" y="98" width="12" height="12" rx="2" fill="#006d32"><title>2026-09-11: 4 commits</title></rect>
+<text x="744.0" y="106.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:744.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="6.41s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.41s" dur="0.4s" fill="freeze" additive="replace"/><rect x="738" y="113" width="12" height="12" rx="2" fill="#0e4429"><title>2026-09-12: 1 commit</title></rect>
+<text x="744.0" y="121.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">1</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:759.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="6.54s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.54s" dur="0.4s" fill="freeze" additive="replace"/><rect x="753" y="23" width="12" height="12" rx="2" fill="#39d353"><title>2026-09-13: 12 commits</title></rect>
+<text x="759.0" y="31.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">12</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:759.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="6.54s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.54s" dur="0.4s" fill="freeze" additive="replace"/><rect x="753" y="38" width="12" height="12" rx="2" fill="#0e4429"><title>2026-09-14: 1 commit</title></rect>
+<text x="759.0" y="46.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">1</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:759.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="6.54s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.54s" dur="0.4s" fill="freeze" additive="replace"/><rect x="753" y="53" width="12" height="12" rx="2" fill="#006d32"><title>2026-09-15: 4 commits</title></rect>
+<text x="759.0" y="61.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:759.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="6.54s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.54s" dur="0.4s" fill="freeze" additive="replace"/><rect x="753" y="68" width="12" height="12" rx="2" fill="#006d32"><title>2026-09-16: 5 commits</title></rect>
+<text x="759.0" y="76.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">5</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:759.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="6.54s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.54s" dur="0.4s" fill="freeze" additive="replace"/><rect x="753" y="83" width="12" height="12" rx="2" fill="#26a641"><title>2026-09-17: 6 commits</title></rect>
+<text x="759.0" y="91.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">6</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:759.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="6.54s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.54s" dur="0.4s" fill="freeze" additive="replace"/><rect x="753" y="98" width="12" height="12" rx="2" fill="#006d32"><title>2026-09-18: 4 commits</title></rect>
+<text x="759.0" y="106.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:759.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="6.54s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.54s" dur="0.4s" fill="freeze" additive="replace"/><rect x="753" y="113" width="12" height="12" rx="2" fill="#26a641"><title>2026-09-19: 8 commits</title></rect>
+<text x="759.0" y="121.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">8</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:774.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="6.67s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.67s" dur="0.4s" fill="freeze" additive="replace"/><rect x="768" y="23" width="12" height="12" rx="2" fill="#26a641"><title>2026-09-20: 6 commits</title></rect>
+<text x="774.0" y="31.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">6</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:774.0px 44.0px"><animate attributeName="opacity" from="0" to="1" begin="6.67s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.67s" dur="0.4s" fill="freeze" additive="replace"/><rect x="768" y="38" width="12" height="12" rx="2" fill="#006d32"><title>2026-09-21: 5 commits</title></rect>
+<text x="774.0" y="46.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">5</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:774.0px 59.0px"><animate attributeName="opacity" from="0" to="1" begin="6.67s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.67s" dur="0.4s" fill="freeze" additive="replace"/><rect x="768" y="53" width="12" height="12" rx="2" fill="#006d32"><title>2026-09-22: 5 commits</title></rect>
+<text x="774.0" y="61.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">5</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:774.0px 74.0px"><animate attributeName="opacity" from="0" to="1" begin="6.67s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.67s" dur="0.4s" fill="freeze" additive="replace"/><rect x="768" y="68" width="12" height="12" rx="2" fill="#006d32"><title>2026-09-23: 4 commits</title></rect>
+<text x="774.0" y="76.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:774.0px 89.0px"><animate attributeName="opacity" from="0" to="1" begin="6.67s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.67s" dur="0.4s" fill="freeze" additive="replace"/><rect x="768" y="83" width="12" height="12" rx="2" fill="#006d32"><title>2026-09-24: 4 commits</title></rect>
+<text x="774.0" y="91.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:774.0px 104.0px"><animate attributeName="opacity" from="0" to="1" begin="6.67s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.67s" dur="0.4s" fill="freeze" additive="replace"/><rect x="768" y="98" width="12" height="12" rx="2" fill="#0e4429"><title>2026-09-25: 1 commit</title></rect>
+<text x="774.0" y="106.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">1</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:774.0px 119.0px"><animate attributeName="opacity" from="0" to="1" begin="6.67s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.67s" dur="0.4s" fill="freeze" additive="replace"/><rect x="768" y="113" width="12" height="12" rx="2" fill="#006d32"><title>2026-09-26: 4 commits</title></rect>
+<text x="774.0" y="121.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">4</text>
+</g>
+<g opacity="0" transform="scale(0.4)" style="transform-origin:789.0px 29.0px"><animate attributeName="opacity" from="0" to="1" begin="6.80s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="scale" from="0.4" to="1" begin="6.80s" dur="0.4s" fill="freeze" additive="replace"/><rect x="783" y="23" width="12" height="12" rx="2" fill="#006d32"><title>2026-09-27: 5 commits</title></rect>
+<text x="789.0" y="31.0" font-family="Segoe UI, sans-serif" font-size="6" text-anchor="middle" fill="#c9d1d9">5</text>
+</g>
+</svg>
