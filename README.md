@@ -53,6 +53,16 @@
 
 </div>
 
+# 📊 GitHub Stats:
+
+<div align="center">
+  
+
+![](https://streak-stats.demolab.com/?user=coder-subhajit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=coder-subhajit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=100&section=footer" />
 </div>
