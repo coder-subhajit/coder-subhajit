@@ -1,28 +1,264 @@
-name: Generate Snake
+name: 🐍 Generate Animated Contribution Snake
 
 on:
   schedule:
+    # Runs every day at 00:00 UTC
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
+    name: 🐍 Generate Snake Animation
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
+      # ----------------------------------------
+      # Generate normal GitHub contribution snake
+      # ----------------------------------------
+      - name: 🐍 Generate contribution snake
+        uses: Platane/snk@v3
         with:
           github_user_name: coder-subhajit
+
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      # ----------------------------------------
+      # Generate animated commit counter
+      # ----------------------------------------
+      - name: 📊 Generate commit statistics
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require("fs");
+
+            const username = "coder-subhajit";
+
+            const query = `
+              query($login: String!) {
+                user(login: $login) {
+                  contributionsCollection {
+                    contributionCalendar {
+                      totalContributions
+                      weeks {
+                        contributionDays {
+                          date
+                          contributionCount
+                          color
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            `;
+
+            const result = await github.graphql(query, {
+              login: username
+            });
+
+            const calendar =
+              result.user.contributionsCollection
+                .contributionCalendar;
+
+            const days = [];
+
+            for (const week of calendar.weeks) {
+              for (const day of week.contributionDays) {
+                days.push({
+                  date: day.date,
+                  count: day.contributionCount,
+                  color: day.color
+                });
+              }
+            }
+
+            fs.writeFileSync(
+              "dist/contributions.json",
+              JSON.stringify({
+                total: calendar.totalContributions,
+                days
+              }, null, 2)
+            );
+
+            console.log(
+              `Total contributions: ${calendar.totalContributions}`
+            );
+
+      # ----------------------------------------
+      # Create animated SVG
+      # ----------------------------------------
+      - name: ✨ Create animated commit counter
+        shell: bash
+        run: |
+          python3 <<'PY'
+          import json
+          import html
+
+          with open("dist/contributions.json", "r") as f:
+              data = json.load(f)
+
+          days = data["days"]
+
+          width = 1100
+          height = 180
+
+          svg = []
+
+          svg.append(f'''
+          <svg xmlns="http://www.w3.org/2000/svg"
+               width="{width}"
+               height="{height}"
+               viewBox="0 0 {width} {height}">
+
+            <rect width="100%" height="100%"
+                  rx="15"
+                  fill="#0d1117"/>
+
+            <text x="40"
+                  y="38"
+                  fill="#ffffff"
+                  font-family="Arial, sans-serif"
+                  font-size="22"
+                  font-weight="bold">
+              🐍 Commit Journey
+            </text>
+
+            <text x="40"
+                  y="65"
+                  fill="#8b949e"
+                  font-family="Arial, sans-serif"
+                  font-size="14">
+              coder-subhajit • Daily contribution activity
+            </text>
+          ''')
+
+          # Only display the latest 52 weeks
+          days = days[-364:]
+
+          cell_size = 12
+          gap = 4
+
+          start_x = 40
+          start_y = 90
+
+          for i, day in enumerate(days):
+
+              week = i // 7
+              weekday = i % 7
+
+              x = start_x + week * (cell_size + gap)
+              y = start_y + weekday * (cell_size + gap)
+
+              count = day["count"]
+
+              # GitHub-like colors
+              if count == 0:
+                  color = "#161b22"
+              elif count <= 2:
+                  color = "#0e4429"
+              elif count <= 5:
+                  color = "#006d32"
+              elif count <= 10:
+                  color = "#26a641"
+              else:
+                  color = "#39d353"
+
+              safe_date = html.escape(day["date"])
+
+              # Contribution square
+              svg.append(f'''
+              <rect
+                  x="{x}"
+                  y="{y}"
+                  width="{cell_size}"
+                  height="{cell_size}"
+                  rx="2"
+                  fill="{color}">
+
+                <title>
+                  {safe_date}: {count} commits
+                </title>
+
+              </rect>
+              ''')
+
+              # Animated counter
+              if count > 0:
+
+                  text_x = x + cell_size / 2
+                  text_y = y - 3
+
+                  svg.append(f'''
+                  <text
+                      x="{text_x}"
+                      y="{text_y}"
+                      text-anchor="middle"
+                      fill="#ffffff"
+                      font-family="Arial, sans-serif"
+                      font-size="7"
+                      opacity="0">
+
+                    {count}
+
+                    <animate
+                      attributeName="opacity"
+                      values="0;1;1;0"
+                      dur="1.5s"
+                      begin="{i * 0.03}s"
+                      repeatCount="indefinite"/>
+
+                    <animate
+                      attributeName="y"
+                      values="{text_y + 5};{text_y};{text_y}"
+                      dur="1.5s"
+                      begin="{i * 0.03}s"
+                      repeatCount="indefinite"/>
+
+                  </text>
+                  ''')
+
+          # Total commits
+          total = data["total"]
+
+          svg.append(f'''
+            <text
+              x="40"
+              y="172"
+              fill="#8b949e"
+              font-family="Arial, sans-serif"
+              font-size="12">
+
+              Total contributions: {total}
+
+            </text>
+
+          </svg>
+          ''')
+
+          with open(
+              "dist/animated-commit-grid.svg",
+              "w"
+          ) as f:
+              f.write("".join(svg))
+
+          print("Animated SVG generated successfully.")
+
+      # ----------------------------------------
+      # Publish to output branch
+      # ----------------------------------------
+      - name: 🚀 Publish animation
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
